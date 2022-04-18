@@ -1,0 +1,10 @@
+-
+  name: test1
+  request:
+    method: NONE
+    url: NONE
+    headers: NONE
+    data: NONE
+  time: NONE
+  value: NONE
+  validate: NONE
